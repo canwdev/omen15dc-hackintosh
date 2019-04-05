@@ -1,5 +1,9 @@
 # 暗影精灵4 i5-8300H + GTX1050Ti 黑苹果 EFI
 
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
 OMEN 15dc Hackintosh Clover EFI
 
 暗影精灵4 i5-8300H + GTX1050Ti 黑苹果 EFI
