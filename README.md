@@ -43,11 +43,11 @@ OMEN 15dc Hackintosh Clover EFI
 
 ![显示器配置](https://ws3.sinaimg.cn/large/005BYqpgly1g1s3n6ca0aj30j80ki0wo.jpg)
 
-![声音配置](https://ws3.sinaimg.cn/large/005BYqpgly1g1s3ngmkyyj30j80ki0wo.jpg)
+![声音配置](https://ws3.sinaimg.cn/large/005BYqpgly1g1s44mcri7j30j80kijv9.jpg)
 
 ## 显示器补丁（可选）
 
-显示器配置可在系统安装后自行添加，增加了之后即可支持缩放和夜览等功能，[说明文档]()
+显示器配置可在系统安装后自行添加，增加了之后即可支持缩放和夜览等功能，[说明文档](./DisplayPatch/README.md)
 
 ## 常用命令
 
