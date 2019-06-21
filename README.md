@@ -10,7 +10,7 @@ OMEN 15dc Hackintosh Clover EFI
 
 ## 说明
 
-本人黑苹果小白，这是我从网上收集各种资源整合成的 EFI 配置，适用用于`暗影精灵4 i5-8300H` + `GTX1050Ti`
+本人黑苹果小白，这是我从网上收集各种资源整合并修复的 EFI 配置，适用用于`暗影精灵4 i5-8300H` + `GTX1050Ti`
 
 使用的系统镜像是 [macOS Mojave 10.14.4(18E226) Installer with Clover 4903](https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html#more)
 
@@ -41,6 +41,9 @@ OMEN 15dc Hackintosh Clover EFI
 ![初次安装完成效果](https://ws3.sinaimg.cn/large/005BYqpgly1g1s3fbr5igj31hc0u0u0x.jpg)
 
 ![完成效果](https://ws3.sinaimg.cn/large/005BYqpgly1g1s3japa5zj31hc0u0u0x.jpg)
+
+![完成效果](https://spxg.me/wp-content/uploads/2019/06/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7-2019-06-21-%E4%B8%8B%E5%8D%881.35.43.png)
+![电池与传感器](https://spxg.me/wp-content/uploads/2019/06/QQ20190621-134227.png)
 
 下面配置已经写入`config.plist`，仅供参考
 
