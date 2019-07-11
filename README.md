@@ -1,7 +1,6 @@
 # 暗影精灵4 i5-8300H + GTX1050Ti 黑苹果 EFI
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
-
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 OMEN 15dc Hackintosh Clover EFI
@@ -10,13 +9,13 @@ OMEN 15dc Hackintosh Clover EFI
 
 ## 说明
 
-本人黑苹果小白，这是我从网上收集各种资源整合并修复的 EFI 配置，适用用于`暗影精灵4 i5-8300H` + `GTX1050Ti`
+这是我从网上收集各种资源整合并修复的 EFI 配置，适用用于`暗影精灵4 i5-8300H` + `GTX1050Ti`
 
 使用的系统镜像是 [macOS Mojave 10.14.4(18E226) Installer with Clover 4903](https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html#more)
 
 安装过程可参考 [macOS安装教程兼小米Pro安装过程记录](https://blog.daliansky.net/MacOS-installation-tutorial-XiaoMi-Pro-installation-process-records.html)
 
-建议安装时直接使用【黑果小兵】大神的镜像，安装完成后再替换此 EFI
+建议安装时直接使用黑果小兵的镜像，安装完成后再替换此 EFI
 
 
 
@@ -78,3 +77,8 @@ sudo diskutil mount disk3s1
 - [Hackintool(原Intel FB-Patcher)使用教程及插入姿势](https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html)
 - [【黑果小兵】CoffeeLake UHD 630黑屏、直接亮屏及亮度调整的正确插入姿势](https://blog.daliansky.net/CoffeeLake-UHD-630-black-screen-direct-bright-screen-and-correct-adjustment-of-brightness-adjustment.html)
 - [教程：利用Hackintool打开第8代核显HDMI/DVI输出的正确姿势](https://blog.daliansky.net/Tutorial-Using-Hackintool-to-open-the-correct-pose-of-the-8th-generation-core-display-HDMI-or-DVI-output.html)
+
+## 鸣谢
+
+- [黑果小兵](https://github.com/daliansky)
+- [上铺小哥Spxg](https://github.com/Spxg)
