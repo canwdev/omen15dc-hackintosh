@@ -11,12 +11,9 @@ OMEN 15dc Hackintosh Clover EFI
 
 这是我从网上收集各种资源整合并修复的 EFI 配置，适用用于`暗影精灵4 i5-8300H` + `GTX1050Ti`
 
-使用的系统镜像是 [macOS Mojave 10.14.4(18E226) Installer with Clover 4903](https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html#more)
+使用的系统镜像是 [【Len's DMG】macOS Mojave 10.14.5 18F132 With Clover 4928 and OC 双引导镜像](http://bbs.pcbeta.com/viewthread-1815882-1-1.html)
 
 安装过程可参考 [macOS安装教程兼小米Pro安装过程记录](https://blog.daliansky.net/MacOS-installation-tutorial-XiaoMi-Pro-installation-process-records.html)
-
-建议安装时直接使用黑果小兵的镜像，安装完成后再替换此 EFI
-
 
 
 ### 可用功能：
@@ -67,12 +64,13 @@ diskutil list
 sudo diskutil mount disk3s1
 ```
 ## 修复亮度保存
+
 因为不能利用原生nvram来储存亮度，所以利用RC scripts来保存，安装Clover时选择RC scripts即可
 ![亮度保存](https://spxg.me/wp-content/uploads/2019/07/QQ20190706-141105.png)
 
 ## 参考教程
 
-- [【黑果小兵】macOS Mojave 10.14.4 18E226 正式版 with Clover 4903原版镜像](https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html)
+- [【Len's DMG】macOS Mojave 10.14.5 18F132 With Clover 4928 and OC 双引导镜像](http://bbs.pcbeta.com/viewthread-1815882-1-1.html)
 - [macOS安装教程兼小米Pro安装过程记录](https://blog.daliansky.net/MacOS-installation-tutorial-XiaoMi-Pro-installation-process-records.html)
 - [Hackintool(原Intel FB-Patcher)使用教程及插入姿势](https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html)
 - [【黑果小兵】CoffeeLake UHD 630黑屏、直接亮屏及亮度调整的正确插入姿势](https://blog.daliansky.net/CoffeeLake-UHD-630-black-screen-direct-bright-screen-and-correct-adjustment-of-brightness-adjustment.html)
@@ -81,4 +79,4 @@ sudo diskutil mount disk3s1
 ## 鸣谢
 
 - [黑果小兵](https://github.com/daliansky)
-- [上铺小哥Spxg](https://github.com/Spxg)
+- [canwdev](https://github.com/canwdev)
