@@ -27,6 +27,10 @@ OMEN 15dc Hackintosh Clover EFI
 - 睡眠
 - 开机不再黑屏
 - 亮度保存正常（教程在下面）
+- Type-C
+
+### 未测试功能
+- Type-C转HDMI输出
 
 ### 无效功能：
 
